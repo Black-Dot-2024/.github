@@ -41,4 +41,3 @@ Nos comprometemos a dar siempre una retroalimentación constructiva y valorar el
 - Usar un lenguaje adecuado en las interacciones tanto con nuestros compañeros y profesores como con el socio.
 - Valorar el trabajo de los demás, siendo conscientes de que todos somos necesarios para el buen desarrollo del proyecto.
 - Respeto hacia las personas que están hablando y hacia el tiempo de todos.
-- 
