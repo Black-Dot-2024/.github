@@ -1,6 +1,6 @@
 # BlackDot
 
-![BlackDot](./banner.jpg)
+![BlackDot](banner.jpg)
 
 ## Acerca de nosotros
 
@@ -18,23 +18,23 @@ Ser líderes en la creación de software que transforme vidas, impulsando el pro
 
 ## Valores
 
-### Compromiso
+### Compromiso 💪
 
 Nos comprometemos a participar activamente en las reuniones, a entregar el trabajo asignado de manera puntual y eficiente, y a cumplir con las horas de trabajo acordadas. Asimismo, a involucrarnos de manera proactiva en el proceso de toma de decisiones y nos aseguraremos de que se cumplan los estándares establecidos.
 
-### Responsabilidad
+### Responsabilidad 🤝
 
 Nos comprometemos a cuidar de la protección de los datos sensibles y, en caso de que alguno de nosotros no se sienta capaz de llevar a cabo una tarea, asumimos la responsabilidad de asegurar que se complete satisfactoriamente. Además, nos comprometemos a mantener actualizada la información sobre el avance de las actividades, trabajando siempre según la planificación establecida. Como grupo, proporcionaremos retroalimentación constructiva, valoraremos el esfuerzo de cada uno y usaremos lenguaje respetuoso en todas nuestras interacciones, ya sea entre compañeros o con cualquier colaborador.
 
-### Empatía
+### Empatía ❤️
 
 Por empatía, nos comprometemos a escuchar y comprender las circunstancias de los demás antes de responder, reconociendo que cada persona tiene habilidades diferentes, pero manteniendo siempre el respeto por los compromisos establecidos. Nos brindaremos apoyo mutuo ante diferencias de experiencia, practicando la tolerancia y empleando un lenguaje claro y respetuoso. Dejaremos a un lado el ego, reconociendo y apreciando la contribución de cada individuo, conscientes de que todos son fundamentales para el éxito de cualquier proyecto.
 
-### Transparencia
+### Transparencia 🔍
 
 Nos comprometemos a comunicarnos clara y efectivamente, siendo proactivos cuando necesitemos asistencia. Entendemos que es válido admitir desconocimiento sin temor a juicio y nos mantenemos abiertos a compartir nuestros progresos y señalar posibles inconvenientes. Nos expresamos libremente sobre dudas o preocupaciones relacionadas con los proyectos, y ofreceremos nuestras perspectivas incluso cuando no estemos de acuerdo con algún aspecto.
 
-### Respeto
+### Respeto 🙏
 
 Nos comprometemos a dar siempre una retroalimentación constructiva y valorar el trabajo de los demás, así como:
 
