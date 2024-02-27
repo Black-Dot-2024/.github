@@ -1,6 +1,6 @@
 # BlackDot
 
-![BlackDot](banner.jpg)
+![BlackDot](https://github.com/Black-Dot-2024/.github/blob/f467d16f8b73bb2c2a42297cd43e7c5f9196e4a9/profile/banner.jpg)
 
 ## Acerca de nosotros
 
