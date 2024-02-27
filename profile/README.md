@@ -1,6 +1,6 @@
 # BlackDot
 
-![BlackDot](../readme-images/banner.jpg)
+![BlackDot](../banner.jpg)
 
 ## Acerca de nosotros
 
